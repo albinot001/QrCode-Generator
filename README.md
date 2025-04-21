@@ -58,12 +58,8 @@ The application will open in your default browser at `http://localhost:3000`.
 2. The QR code will be generated automatically
 3. Click the "Download QR Code" button to save the QR code as a PNG file
 
-## Future Improvements
+
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit a Pull Request.
-
-## Author
-
-- Albinot
